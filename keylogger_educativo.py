@@ -18,7 +18,9 @@ def mostrar_teclas(key):
             tecla = str(key)
     print(f"Tecla presionada: {tecla}")
 
-print("Keylogger en ejecucuión... Presione ESC para detener.")
+print("Keylogger en ejecucuión... Presione ESC para detener.sahola")
 
 with Listener(on_press=mostrar_teclas) as listener:
     listener.join()
+
+# comentario
