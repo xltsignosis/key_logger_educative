@@ -1,4 +1,4 @@
-keylogger con fines educativoas para saber como funciona
+keylogger con fines educativos para saber como funciona
 
 🔐 Simulador de Keylogger Educativo en Python
 Este proyecto es un simulador de keylogger con fines estrictamente educativos y de concientización en ciberseguridad.
